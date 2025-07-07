@@ -66,9 +66,13 @@ Fun Fact: Still dreaming. No ETA on waking up.
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wakka810&theme=dracula&column=8&margin-w=5&margin-h=5" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=wakka810&theme=onedark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=wakka810">
+    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=wakka810">
+  </picture>
+</div>
 
 <div align="center">
   <table>
