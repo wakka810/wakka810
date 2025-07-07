@@ -90,12 +90,13 @@ Fun Fact: Still dreaming. No ETA on waking up.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wakka810&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wakka810/wakka810/refs/heads/main/img/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wakka810/wakka810/refs/heads/main/img/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wakka810/wakka810/refs/heads/main/img/snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wakka810/wakka810/refs/heads/main/img/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wakka810/wakka810/refs/heads/main/img/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wakka810/wakka810/refs/heads/main/img/snake.svg">
+  </picture>
+</div>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wakka810&theme=react-dark&area=true&hide_border=true)](https://github.com/wakka810)
 
