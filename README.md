@@ -22,7 +22,7 @@
 
 ```yaml
 Name:          Wakka
-Pronouns:      he/they
+Pronouns:      he/him
 From:          Japan
 Interests:
   - Generative Art 🖼️
