@@ -8,9 +8,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
   I'm <strong>Wakka</strong>
 </h1>
-<p align="center">
-  <em>Full-Stack Engineer • Creative Coder • Vibing with AI 🤖🎧</em>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5A0&center=true&vCenter=true&width=435&height=45&lines=Welcome+to+my+GitHub;I+build+cool+things;I+train+models;I+love+open+source" alt="Typing SVG" />
@@ -24,11 +21,6 @@
 Name:          Wakka
 Pronouns:      he/him
 From:          Japan
-Interests:
-  - Generative Art 🖼️
-  - Conversational AI 🤖
-  - Game Modding 🎮
-Fun Fact: Still dreaming. No ETA on waking up.
 ```
 
 ---
