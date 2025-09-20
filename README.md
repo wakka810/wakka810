@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5A0&center=true&vCenter=true&width=435&height=45&lines=Welcome+to+my+GitHub;I+build+cool+things;I+train+models;I+love+open+source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5A0&center=true&vCenter=true&width=435&height=45&lines=Welcome+to+my+GitHub;" alt="Typing SVG" />
 </p>
 
 ---
