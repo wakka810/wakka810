@@ -58,13 +58,15 @@ From:          Japan
 
 ## 📈 GitHub Analytics
 
-<div align="center">
+<p align="center">
   <picture>
+    <!-- rank=-? -->
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=wakka810&theme=onedark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=wakka810">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=wakka810&theme=light">
     <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=wakka810">
   </picture>
-</div>
+</p>
+
 
 <div align="center">
   <table>
