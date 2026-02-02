@@ -57,42 +57,30 @@ From:          Japan
 ---
 
 ## 📈 GitHub Analytics
-
 <p align="center">
-  <picture>
-    <!-- rank=-? -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=wakka810&theme=onedark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=wakka810&theme=light">
-    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=wakka810">
-  </picture>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/wakka810/wakka810/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="800" />
+  </a>
 </p>
 
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=wakka810&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues" alt="Wakka's GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakka810&theme=tokyonight&langs_count=10&hide=html,css" alt="Wakka's Top Languages"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/wakka810/wakka810/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" width="390" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/wakka810/wakka810/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" width="390" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wakka810&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/wakka810/wakka810/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="390" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/wakka810/wakka810/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="390" />
+  </a>
 </p>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wakka810/wakka810/refs/heads/main/img/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wakka810/wakka810/refs/heads/main/img/snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wakka810/wakka810/refs/heads/main/img/snake.svg">
-  </picture>
-</div>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wakka810&theme=react-dark&area=true&hide_border=true)](https://github.com/wakka810)
 
 <!--
 ---
