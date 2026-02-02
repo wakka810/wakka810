@@ -2,7 +2,7 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 毎日 UTC 0:00（JST 9:00）
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,9 +13,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-        with:
-          # “push も PAT で確実に”やりたい場合は指定（不要なら削除OK）
-          token: ${{ secrets.SUMMARY_CARDS_TOKEN }}
 
       - name: Generate cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
@@ -23,6 +20,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
         with:
           USERNAME: wakka810
-          BRANCH_NAME: "main"   # あなたの実ブランチに合わせる
+          BRANCH_NAME: "main"
           UTC_OFFSET: 9
-          AUTO_PUSH: true
