@@ -14,18 +14,28 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # Use a PAT with `repo` and `read:user` so private activity and
+          # private repository language totals are included in aggregates.
           token: ${{ secrets.METRICS_TOKEN }}
           user: wakka810
           filename: github-metrics.svg
 
-          base: header, activity, community, repositories
+          # Keep private repository names out of the rendered card while
+          # including their contributions in totals and language statistics.
+          base: header, community
+          base_indepth: yes
+          repositories_affiliations: owner
+
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+
           plugin_languages: yes
           plugin_languages_limit: 6
           plugin_languages_threshold: 1%
+          plugin_languages_details: percentage
+          plugin_languages_other: yes
 
-          config_order: base.header, base.activity+community, isocalendar, languages, base.repositories
+          config_order: base.header, isocalendar, languages, base.community
           config_timezone: Asia/Tokyo
           config_animations: no
           output_condition: data-changed
