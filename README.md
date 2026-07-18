@@ -6,7 +6,7 @@ Mostly runtimes, emulators, compatibility layers, and ideas that are slightly un
 
 ## selected work
 
-**vine** <sub>private · current focus</sub>  
+**Vine** <sub>private · current focus</sub>  
 A browser-native compatibility runtime for Windows games, from PE loading and x86 execution to Win32/COM, graphics, input, audio, and storage.
 
 [**3dmigoto-arknights-endfield**](https://github.com/wakka810/3dmigoto-arknights-endfield)  
